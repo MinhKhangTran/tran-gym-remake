@@ -1,3 +1,3 @@
-# React Tailwind primitive starter
+#React TranGym Remake
 
-clone and start
+[Live Demo](https://tran-gym-remake.netlify.app/)
