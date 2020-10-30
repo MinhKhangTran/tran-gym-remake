@@ -7,7 +7,7 @@ export default function Hero() {
     <Wrapper>
       <header className="relative">
         <img src={hero} alt="gym" />
-        <h1 className="text-white lg:absolute lg:bottom-0 lg:right-0 uppercase lg:-mb-20 lg:overflow-hidden">
+        <h1 className="text-white lg:absolute lg:bottom-0 lg:right-0 uppercase lg:-mb-20 lg:overflow-hidden hidden md:block">
           tran gym.
         </h1>
       </header>

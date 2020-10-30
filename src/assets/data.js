@@ -51,7 +51,7 @@ export const navbar = [
 
 export const slider = [
   {
-    id: 1,
+    id: 0,
     image:
       "https://res.cloudinary.com/dwryyoyd7/image/upload/v1603985360/TranGym/Ellipse_2_qd5sb3.png",
     name: "maria ferguson",
@@ -60,7 +60,7 @@ export const slider = [
       "Fingerstache umami squid, kinfolk subway tile selvage tumblr man braid viral kombucha gentrify fanny pack raclette pok pok mustache.",
   },
   {
-    id: 2,
+    id: 1,
     image:
       "https://res.cloudinary.com/dwryyoyd7/image/upload/v1603985359/TranGym/Ellipse_1_tfr2ka.png",
     name: "john doe",
@@ -69,7 +69,7 @@ export const slider = [
       "Gastropub sustainable tousled prism occupy. Viral XOXO roof party brunch actually, chambray listicle microdosing put a bird on it paleo subway tile squid umami.",
   },
   {
-    id: 3,
+    id: 2,
     image:
       "https://res.cloudinary.com/dwryyoyd7/image/upload/v1603985359/TranGym/Ellipse_3_y7wzot.png",
     name: "peter smith",

@@ -1,8 +1,6 @@
 import React from "react";
 import {
-  Form,
   Navbar,
-  Titel,
   Footer,
   Hero,
   Questions,
@@ -19,7 +17,6 @@ export default function Home() {
       <About></About>
       <Questions></Questions>
       <Team></Team>
-      <Form></Form>
       <Footer></Footer>
     </section>
   );
